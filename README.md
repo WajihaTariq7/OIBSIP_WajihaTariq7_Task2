@@ -12,13 +12,13 @@ Steps Performed:
 
 Tools and Technologies Used:
 
-Python
-Kaggle Notebook
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Scikit-learn (Machine Learning Library)
+* Python
+* Kaggle Notebook
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Scikit-learn (Machine Learning Library)
 
 Outcome:
 The project successfully predicted car prices with good accuracy by analyzing multiple vehicle attributes. Among the tested algorithms, ensemble models such as Random Forest typically achieved higher prediction accuracy than basic regression models. The project enhanced understanding of data preprocessing, feature engineering, model training, and evaluation techniques in machine learning.
